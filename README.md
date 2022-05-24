@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kimwoo-jong
 - 🌱 I’m currently learning .
-- 📫 How to reach me ...
+- 📫 연락방법 wooj950713@naver.com 
 
 <!---
 Kimwoo-jong/Kimwoo-jong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
